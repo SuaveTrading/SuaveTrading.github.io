@@ -1,2 +1,2 @@
-Redirect /index.html https://suavetrading.github.io/bot.html
+Redirect /index.html /bot.html
 RewriteRule ^bot$ bot.html [L]

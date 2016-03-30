@@ -1,2 +1,0 @@
-Redirect /index.html /bot.html
-RewriteRule ^bot$ bot.html [L]

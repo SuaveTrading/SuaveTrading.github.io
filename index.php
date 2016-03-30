@@ -19,7 +19,10 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body class="landing">
+		<?php
 
+		RewriteRule ^CSGODoubleBot$ index.php [L]
+?>
 		<!-- Header -->
 			<header id="header">
 				<h1><a href="index.html">CSGODouble Bot</a></h1>
